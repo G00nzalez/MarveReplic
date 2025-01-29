@@ -1,6 +1,7 @@
 # Marvel Replica
 
-¡Bienvenido a la **Marvel App**! Esta es una aplicación móvil desarrollada en Flutter que te permite explorar el universo de Marvel, descubrir personajes, cómics, series y más. La aplicación consume la API oficial de Marvel para obtener datos actualizados y ofrecer una experiencia interactiva y visualmente atractiva.
+¡Bienvenido a la **Marvel App**! Esta es una aplicación móvil desarrollada en Flutter que te permite explorar el universo de Marvel, descubrir personajes, cómics, series y más. La aplicación extrae la información de un json local por tanto no hace falta ninguna conexión.
+
 
 ## Características
 
@@ -19,10 +20,12 @@
 - **Http**: Para realizar solicitudes a la API.
 - **Cached Network Image**: Para cargar y almacenar en caché imágenes de la API.
 
+
 ## Requisitos
 
 - Flutter SDK (versión 3.0 o superior)
 - Dart (versión 2.17 o superior)
+
 
 ## Instalación
 
